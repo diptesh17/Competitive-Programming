@@ -1,0 +1,15 @@
+// Even and Odd // 
+
+Even no -> LSB bit = 0
+Odd no -> LSB bit = 1
+
+if ( n & 1 == 0 )
+cout << "Even No" ;
+else
+cout << "Odd No" ;
+
+// Multiply and Divide by 2 //
+
+num << 1 = 2 * num
+num >> 1 = num / 2
+
